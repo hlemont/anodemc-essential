@@ -1,0 +1,4 @@
+title @s times 3 14 3
+title @s title {"text":"Repayment deadline imminent", "color":"red"}
+execute if score @s loan.time_remaining matches 2.. run title @s subtitle {"text":"", "extra":["Remaining time: ", {"score":{"objective":"loan.time_remaining", "name":"@s"}}, " seconds | Amount to pay: ", {"score":{"objective":"loan.to_be_paid", "name":"@s"}}]}
+execute if score @s loan.time_remaining matches 1 run title @s subtitle {"text":"", "extra":["Remaining time: ", {"score":{"objective":"loan.time_remaining", "name":"@s"}}, " second | Amount to pay: ", {"score":{"objective":"loan.to_be_paid", "name":"@s"}}]}

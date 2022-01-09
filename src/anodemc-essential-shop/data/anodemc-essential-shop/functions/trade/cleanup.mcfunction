@@ -1,0 +1,1 @@
+execute as @e[tag=trader] at @s unless block ~ ~0.6 ~ #signs run kill @s

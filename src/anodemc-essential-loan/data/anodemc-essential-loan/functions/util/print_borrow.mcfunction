@@ -1,0 +1,1 @@
+tellraw @s {"text":">>", "color":"gray", "extra":["Borrowed ", {"score":{"objective":"loan.principal", "name":"anodemc-essential"}}, ", total ", {"score":{"objective":"loan.principal", "name":"@s"}}, " (limit: ", {"score":{"objective":"loan.LIMIT", "name":"anodemc-essential"}}, ")"]}

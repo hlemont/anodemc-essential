@@ -1,0 +1,5 @@
+tellraw @s {"text":"Default interest: ", "hoverEvent":{"action":"show_text", "contents":"Default interest of the loan."}, "extra": [{"score":{"objective":"loan.INTEREST","name":"anodemc-essential"}}]}
+tellraw @s {"text":"Penalty interest: ", "hoverEvent":{"action":"show_text", "contents":"Additional interest applied after the expiration of the loan."}, "extra": [{"score":{"objective":"loan.INTEREST_PENALTY","name":"anodemc-essential"}}]}
+tellraw @s {"text":"Loan limit: ", "hoverEvent":{"action":"show_text", "contents":"Max amount you can borrow."}, "extra": [{"score":{"objective":"loan.LIMIT","name":"anodemc-essential"}}]}
+tellraw @s {"text":"Period of repayment(seconds): ", "hoverEvent":{"action":"show_text", "contents":"Time limit given to repay for the owes."}, "extra": [{"score":{"objective":"loan.PERIOD","name":"anodemc-essential"}}]}
+tellraw @s {"text":"Time to alert: ", "hoverEvent":{"action":"show_text", "contents":"Time to start alerting Time limit"}, "extra": [{"score":{"objective":"loan.TIME_TO_ALERT","name":"anodemc-essential"}}]}

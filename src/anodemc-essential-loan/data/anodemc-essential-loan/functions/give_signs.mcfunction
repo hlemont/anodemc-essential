@@ -1,0 +1,9 @@
+function anodemc-essential-loan:give/sign_borrow_1
+function anodemc-essential-loan:give/sign_borrow_10
+function anodemc-essential-loan:give/sign_borrow_100
+function anodemc-essential-loan:give/sign_repay_1
+function anodemc-essential-loan:give/sign_repay_10
+function anodemc-essential-loan:give/sign_repay_100
+function anodemc-essential-loan:give/sign_repay_all
+function anodemc-essential-loan:give/sign_display_config
+function anodemc-essential-loan:give/sign_display_current

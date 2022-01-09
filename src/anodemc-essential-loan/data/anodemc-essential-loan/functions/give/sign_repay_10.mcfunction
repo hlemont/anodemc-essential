@@ -1,0 +1,1 @@
+give @p oak_sign{BlockEntityTag: {Text1: "{\"text\":\"[Repay 10]\",\"color\":\"aqua\",\"bold\":true,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"trigger loan.repay_10\"}}"},display:{Name: '{"text":"Repay 10"}'}} 1

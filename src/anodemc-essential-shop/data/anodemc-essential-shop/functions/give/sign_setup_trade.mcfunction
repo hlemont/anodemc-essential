@@ -1,0 +1,1 @@
+give @p oak_sign{BlockEntityTag: {Text1: "{\"text\":\"[Setup Trade]\",\"color\":\"yellow\",\"bold\":true,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function anodemc-essential-shop:trade/setup\"}}"},display:{Name: '{"text":"Setup Trade"}'}} 1

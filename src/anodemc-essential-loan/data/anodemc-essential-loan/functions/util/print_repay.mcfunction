@@ -1,0 +1,1 @@
+tellraw @s {"text":">>", "color":"gray", "extra":["Repayed ", {"score":{"objective":"loan.to_be_paid", "name":"anodemc-essential"}}, " and currently paid ", {"score":{"objective":"loan.paid", "name":"@s"}}, " in total."]}

@@ -1,0 +1,1 @@
+give @p oak_sign{BlockEntityTag: {Text1: "{\"text\":\"[Show config]\",\"color\":\"gray\",\"bold\":true,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"trigger loan.display_config\"}}"},display:{Name: '{"text":"Show config"}'}} 1
