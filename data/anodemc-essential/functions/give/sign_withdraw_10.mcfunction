@@ -1,0 +1,1 @@
+give @p oak_sign{BlockEntityTag:{Text1:"{\"text\":\"[Withdraw 10]\",\"color\":\"red\",\"bold\":true,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"trigger withdraw_10\"}}"},display:{Name: '{"text":"Withdraw 10"}'}} 1

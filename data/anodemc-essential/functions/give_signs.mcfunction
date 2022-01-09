@@ -1,0 +1,9 @@
+function anodemc-essential:give/sign_deposit_1
+function anodemc-essential:give/sign_deposit_10
+function anodemc-essential:give/sign_deposit_100
+function anodemc-essential:give/sign_deposit_all
+function anodemc-essential:give/sign_withdraw_1
+function anodemc-essential:give/sign_withdraw_10
+function anodemc-essential:give/sign_withdraw_100
+function anodemc-essential:give/sign_withdraw_all
+function anodemc-essential:give/sign_display_balance

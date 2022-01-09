@@ -1,0 +1,1 @@
+give @p oak_sign{BlockEntityTag: {Text1: "{\"text\":\"[Deposit 1]\",\"color\":\"aqua\",\"bold\":true,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"trigger deposit_1\"}}"},display:{Name: '{"text":"Deposit 1"}'}} 1
