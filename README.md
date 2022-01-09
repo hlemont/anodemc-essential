@@ -19,11 +19,7 @@ A vanilla datapack which provides utilities for currency.
 ![anodemc-essential-shop](https://user-images.githubusercontent.com/76568223/148671862-9b6bb66c-7b44-4965-9069-7b27e8b88c01.gif)
 > Simply build custom trade signs (not survival friendly yet)
 
-link to anodemc-essential-shop
-
 ## anodemc-essential-loan
 ![anodemc-essential-loan_1](https://user-images.githubusercontent.com/76568223/148671968-050d229f-6070-457e-836f-1727e221fa7d.gif)
 ![anodemc-essential-loan_2](https://user-images.githubusercontent.com/76568223/148671972-ad366334-2887-4ba9-bc46-b87dcc515309.gif)
 > loan system with customizable settings, and arrest / release features
-
-link to anodemc-essential-loan
