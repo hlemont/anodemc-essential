@@ -4,6 +4,8 @@
 
 A vanilla datapack which provides utilities for currency.
 
+[Documents](docs/README.md)
+
 # features
  - [X] quantified bank system
  - [X] item trade or exchange system
